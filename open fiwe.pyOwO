@@ -1,0 +1,7 @@
+with open("OwO.txt", "w") as f:
+    f.write("OwO, hewwo!")
+
+with open("OwO.txt", "r") as f:
+    file_contents = f.read()
+
+print(file_contents)
