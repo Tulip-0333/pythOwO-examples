@@ -1,0 +1,2 @@
+name = inpwt("OwO, what's youw name?")
+pwint("Hewwo "+name+" OwO!")
