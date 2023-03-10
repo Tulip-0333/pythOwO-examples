@@ -8,7 +8,7 @@ PythOwO is a dynamic, interpreted, high-wevew programming wanguage. It was cweat
 
 ## How to Use
 
-Simpwy cwone or downwoad this wepository to access the PythOwO code snippwets. Each snippwet is contained in its own fiwe with a `.pOwO` extension. To wun a snippwet, use the command `pythOwO <fiwename>.pOwO` in youw terminaw.
+Simpwy cwone or downwoad this wepository to access the PythOwO code snippwets. Each snippwet is contained in its own fiwe with a `.pyOwO` extension.
 
 ## Contributing
 
