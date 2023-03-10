@@ -1,0 +1,5 @@
+my_wist = [1, 2, 3, 4, 5]
+
+FOR i in my_wist THWEN
+  pwint(i)
+END
